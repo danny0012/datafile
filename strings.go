@@ -1,4 +1,4 @@
-﻿// Package datafile reads data from file
+﻿// Package datafile reads data from files
 package datafile
 
 import (
